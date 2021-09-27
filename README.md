@@ -1,5 +1,7 @@
 # Web Development? That's me!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RetaxMaster&label=Profile%20views&color=0e75b6&style=flat" alt="RetaxMaster" /> </p>
+
 Hey! 😄 ¿Te gusta el desarrollo web? ¡A mi también! Desde tecnologías Front-end hasta tenologías Back-end, eso y más podrás encontrar entre mis repositorios.
 
 Me encanta aportar a la comunidad con proyectos increíbles así como hacer tutoriales [en mi canal de YouTube](https://www.youtube.com/retaxmaster "en mi canal de YouTube") que puedan ser de utilidad y que puedan ayudar a los nuevos devs a resolver retos con los que puedan toparse.
